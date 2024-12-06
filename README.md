@@ -11,7 +11,7 @@ Welcome to the quick summary of critical Common Vulnerabilities and Exposures (C
 ### 🔐 **CVE-2024-51378 (CyberPanel)**
 - **Severity**: 🌟 **10.0 (Critical)**  
 - **Issue**: Remote Code Execution in CyberPanel allowing attackers full system control.  
-![Cyber Attack](https://media.giphy.com/media/l3fQ7gCRoDcG9Pms4/giphy.gif)
+![Cyber Attack](https://media1.tenor.com/m/CgGUXc-LDc4AAAAd/hacker-pc.gif)
 
 [🛡️ Mitigation Guide](https://www.tenable.com/cve/CVE-2024-51378)
 
