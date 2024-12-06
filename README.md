@@ -42,8 +42,3 @@ Welcome to the quick summary of critical Common Vulnerabilities and Exposures (C
 
 ---
 
-## 🚀 Quick Start
-
-1. **Clone This Repo**:
-   ```bash
-   git clone https://github.com/yourusername/trending-cves-december2024.git
